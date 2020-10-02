@@ -113,11 +113,13 @@ foreach ($days as $week){
     }else echo '<strong>'. $week.'</strong>'.'<br>';
 }
 
+
 $num = [1,2,3,4,5,6,7,8,9];
 foreach ($num as $elem){
     echo '-'.$elem;
 }
 echo '<br>';
+
 
 foreach ($days as $week){
     if ($week == 'пн'){
@@ -125,17 +127,17 @@ foreach ($days as $week){
     }else echo $week.'<br>';
 }
 
+
 $x = [];
 for ($i = 1; $i<=100; $i++){
     $x[] = $i;
 }
 var_dump($x);
 
+
 $arrDay = ['green'=>'зеленый', 'red'=>'красный', 'blue'=>'голубой'];
 $en = [];
 $ru = [];
-
-
 foreach ($arrDay as $enCol => $ruCol){
     $en[] = $enCol;
     $ru[] = $ruCol;
