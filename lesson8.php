@@ -145,23 +145,3 @@ var_dump(array_chunk($c,3));
 
 $arrExamp = ($arrExamp = array_unique($arrExamp))[count($arrExamp)-2];
 var_dump($arrExamp);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
