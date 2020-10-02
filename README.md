@@ -1,2 +1,2 @@
 # PracticeFromZerotoHero
-Task from http://old.code.mu/tasks/php/
+Tasks from http://old.code.mu/tasks/php/
