@@ -1,8 +1,15 @@
 
 <form action="" method="GET">
+    <label>Задание №1</label><br>
+    <label for="name">Введите ваше имя
         <input type="text" name="name">
+    </label><hr>
+    <label for="age">Ваш возраст
         <input type="text" name="age">
+    </label><hr>
+    <label for="message">Введите текст
         <textarea name="message"></textarea>
+    </label>
     <input type="submit" name="submit1">
 </form>
 
@@ -21,7 +28,9 @@ if (!isset($_REQUEST['age1'])){
 
 ?>
     <form action="" method="get">
-        <input type="text" name="age1">
+        <label for="age1"> Задание №2
+            <input type="text" name="age1">
+        </label>
         <input type="submit">
     </form>
 <?php
@@ -36,8 +45,12 @@ if (isset($_REQUEST['age1'])){
 ?>
 
 <form action="" method="GET">
-    <input type="text" name="login">
-    <input type="password" name="pass">
+    <label for="login">Задание №3
+        <input type="text" name="login">
+    </label>
+    <label for="pass">Введите пароль
+        <input type="password" name="pass">
+    </label>
     <input type="submit" name="submit2">
 </form>
 

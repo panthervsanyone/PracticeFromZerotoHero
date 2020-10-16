@@ -20,15 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac7c8300-5058-4cef-9d9d-f088abfb0e3e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LessonOOP1.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LessonOOP2.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LessonOOP3.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson13.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson14.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson15.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson16.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LessonOOP3.php" beforeDir="false" afterPath="$PROJECT_DIR$/LessonOOP3.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson10.php" beforeDir="false" afterPath="$PROJECT_DIR$/lesson10.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +65,8 @@
       <updated>1602418932739</updated>
       <workItem from="1602418934528" duration="18525000" />
       <workItem from="1602455401382" duration="13217000" />
-      <workItem from="1602536824189" duration="4230000" />
+      <workItem from="1602536824189" duration="12406000" />
+      <workItem from="1602833094149" duration="7747000" />
     </task>
     <servers />
   </component>
