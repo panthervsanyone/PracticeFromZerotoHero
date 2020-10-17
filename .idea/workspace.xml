@@ -20,10 +20,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac7c8300-5058-4cef-9d9d-f088abfb0e3e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/session.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LessonOOP10/Student.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LessonOOP10/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LessonOOP11.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LessonOOP12.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LessonOOP13.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LessonOOP5.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LessonOOP6.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LessonOOP7.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LessonOOP8/Employee.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LessonOOP8/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LessonOOP9/City.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LessonOOP9/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LessonOOP3.php" beforeDir="false" afterPath="$PROJECT_DIR$/LessonOOP3.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson10.php" beforeDir="false" afterPath="$PROJECT_DIR$/lesson10.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LessonOOP4.php" beforeDir="false" afterPath="$PROJECT_DIR$/LessonOOP4.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +77,8 @@
       <workItem from="1602418934528" duration="18525000" />
       <workItem from="1602455401382" duration="13217000" />
       <workItem from="1602536824189" duration="12406000" />
-      <workItem from="1602833094149" duration="7747000" />
+      <workItem from="1602833094149" duration="16469000" />
+      <workItem from="1602933775740" duration="10376000" />
     </task>
     <servers />
   </component>
@@ -94,5 +106,9 @@
       <screen x="1680" y="175" width="1920" height="1080" />
     </state>
     <state x="2030" y="315" width="1457" height="800" key="DiffContextDialog/1680.175.1920.1080/0.202.1680.848@1680.175.1920.1080" timestamp="1602434112990" />
+    <state x="2339" y="434" width="672" height="678" key="search.everywhere.popup" timestamp="1602879641397">
+      <screen x="1680" y="175" width="1920" height="1080" />
+    </state>
+    <state x="2339" y="434" width="672" height="678" key="search.everywhere.popup/1680.175.1920.1080/0.202.1680.848@1680.175.1920.1080" timestamp="1602879641397" />
   </component>
 </project>
