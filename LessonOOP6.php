@@ -26,14 +26,14 @@ class Employee
             return $newAge;
     }
 
-    public function setSalary()
+    public function setSalary($salary)
     {
-        return  $this->salary;
+        $this->salary = $salary;
     }
 
-    public function getSalary($salary)
+    public function getSalary()
     {
-        return $this->salary = $salary .'$';
+        return $this->salary  .'$';
     }
 
     private function isAgeCorrect($age)
@@ -45,7 +45,7 @@ class Employee
 $obj = new Employee;
 $obj->getName('Коля');
 echo $obj->getAge(55).'<br>';
-echo $obj->getSalary(2000).'<br>';
+echo $obj->getSalary().'<br>';
 
 
 

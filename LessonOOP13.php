@@ -2,7 +2,8 @@
 
 class User
 {
-    private $name,$age;
+    private $name;
+    protected $age;
 
     public function __construct(
         $name,
